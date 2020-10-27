@@ -1,6 +1,5 @@
 package com.atguigu.springcloud.service.impl;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import com.atguigu.springcloud.service.IMessageProvider;
 import org.springframework.cloud.stream.annotation.EnableBinding;
 import org.springframework.cloud.stream.messaging.Source;
